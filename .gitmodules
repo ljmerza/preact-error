@@ -1,0 +1,3 @@
+[submodule "src/preact-submod"]
+	path = src/preact-submod
+	url = git@github.com:ljmerza/preact-submod.git
